@@ -1,0 +1,25 @@
+.release-details {
+    padding: 5px 0 20px 0;
+    text-align: center;
+    background: #52637A;
+    color: #FFF;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.release-details .separator {
+    padding: 0 15px;
+}
+
+.release-details b {
+    letter-spacing: 1px;
+}
+
+.wp-admin .release-details {
+    width: 90%;
+    float: left;
+    text-align: center;
+    padding: 0;
+    background: none;
+    color: inherit;
+}
